@@ -1,0 +1,12 @@
+KeyDesk 1.0.0
+Copyright 2026 上海如静知华信息科技有限公司
+https://www.zhuatech.cn/ · 商业咨询微信 zhuatech / zhuatech2
+
+自有源码按根目录LICENSE提供非商业学习许可。身份与系统目录部分复用本公司LinguaDesk自有代码；实体钥匙业务独立实现。第三方依赖不受本公司许可重新授权。
+
+Vue / Vite / plugin-vue / ESLint / globals / Prettier: retain package-distributed MIT notices.
+Lucide (@lucide/vue): retain ISC notices and applicable MIT icon notices distributed with the package.
+Spring Boot / Spring Security / Spring Data / Flyway: retain distributed Apache-2.0 notices.
+MySQL Connector/J: retain distributed GPL-2.0 and Universal FOSS Exception notices.
+H2 test dependency: retain distributed MPL-2.0/EPL-1.0 notices.
+Docker base images (Maven, Eclipse Temurin, Node, Nginx, MySQL) contain additional third-party notices; inspect image distributions before redistribution. This file is an attribution index, not a replacement for dependency licenses. Packaging and commercial distribution require separate license review.
